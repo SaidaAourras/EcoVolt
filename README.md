@@ -66,7 +66,7 @@ Le modèle démontre sa capacité à :
 
 ### Visualisation des prédictions
 
-![Prédictions vs Valeurs Réelles](images/predictions_vs_actual.png)
+![Prédictions vs Valeurs Réelles](predictions_vs_actual.png)
 
 *Comparaison entre les valeurs prédites par le modèle LSTM et les valeurs réelles de consommation électrique sur l'ensemble de test*
 

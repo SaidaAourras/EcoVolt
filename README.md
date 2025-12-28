@@ -64,6 +64,12 @@ Le modèle démontre sa capacité à :
 - Anticiper les variations horaires
 - Fournir des prédictions cohérentes pour la gestion du réseau
 
+### Visualisation des prédictions
+
+![Prédictions vs Valeurs Réelles](images/predictions_vs_actual.png)
+
+*Comparaison entre les valeurs prédites par le modèle LSTM et les valeurs réelles de consommation électrique sur l'ensemble de test*
+
 ## 🛠️ Technologies utilisées
 
 - **Langage** : Python
